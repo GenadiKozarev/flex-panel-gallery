@@ -2,7 +2,7 @@
 
 ### phrase
 
-Live: link
+Live: https://genadikozarev.github.io/flex-panel-gallery/
 
 Preview: 
 
